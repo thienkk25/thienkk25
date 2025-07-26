@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=84fab0&center=true&vCenter=true&width=500&lines=Mobile+Developer;Flutter+%7C+Backend+Lover;Always+Learning+New+Things;Nothing can stop me" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=84fab0&center=true&vCenter=true&width=500&lines=Mobile+Developer;Flutter+%7C+Backend+Lover;Always+Learning+New+Things;Nothing+Can+Stop+Me" alt="Typing Animation" />
 </p>
 
 <p align="center">
