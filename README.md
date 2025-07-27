@@ -53,6 +53,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thienkk25&show_icons=true&theme=vision-friendly-dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=react" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&theme=tokyo-night" />
 </p>
 
 <p align="center">
@@ -108,5 +109,11 @@
 </p>
 
 <p align="center">
+  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&theme=tokyo-night" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thienkk25&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/thienkk25?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/thienkk25?label=Stars&style=flat-square&color=yellow" />
 </p>
