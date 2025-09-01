@@ -41,7 +41,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**UniStore**](https://github.com/thienkk25/UniStore) |A e-commerce app for browsing, searching, and purchasing products with a seamless checkout experience. | Flutter, Firebase, REST API |
-| [**MovieApp**](https://github.com/thienkk25/MovieApp) | A movie streaming app with beautiful UI, allowing users to browse, search and watch movies. | Flutter, Firebase, REST API |
+| [**MovieApp**](https://github.com/thienkk25/MovieApp) | A movie app with beautiful UI, allowing users to browse, search and watch movies. | Flutter, Firebase, REST API |
 | [**Tylk_Chat**](https://github.com/thienkk25/Tylk_Chat) | Realtime chat application with Flutter & WebSocket. | Flutter, NodeJS(Express) |
 
 <p align="center">
