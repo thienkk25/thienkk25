@@ -40,3 +40,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thienkk25&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/thienkk25?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/thienkk25?label=Stars&style=flat-square&color=yellow" />
+</p>
