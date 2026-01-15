@@ -3,18 +3,19 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Mobile+Developer;Flutter+%7C+Backend+Lover;Always+Learning+New+Things;Nothing+Can+Stop+Me" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7C4DFF&center=true&vCenter=true&width=540&lines=Software+Developer;Love+Solving+Problems;Clean+Thinking;Always+Evolving" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" />
 </p>
 
-
 ## 👨‍💻 About Me
-- 👋 Hi, I'm Thiện, **<!--AGE-->22<!--AGE--> years old**, from Vietnam.
-- 🌱 I’m currently learning **Flutter, Backend, etc**.
-- 🎯 Goal: Become a **Full-stack Mobile Developer**.
+- 👋 Hi, I'm Thiện, a mobile application developer from Vietnam.  
+- I have experience developing Flutter applications with a focus on clean architecture, maintainability, and performance.  
+- I also work with backend development using Node.js (Express) to build RESTful APIs and support mobile applications.  
+- I enjoy working with modern technologies and continuously improving my skills to build better products.
 
 ## 🚀 Tech Stack
 <p align="center">
@@ -40,6 +41,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thienkk25&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/thienkk25?label=Followers&style=flat-square&color=blue" />
