@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thienkk25&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🔥 Streak Stats
@@ -61,3 +54,5 @@
   <img src="https://img.shields.io/github/followers/thienkk25?label=Followers&style=flat-square&color=blue" />
   <img src="https://img.shields.io/github/stars/thienkk25?label=Stars&style=flat-square&color=yellow" />
 </p>
+
+<p align="center"><a href="https://software-company-website.pages.dev/">My Website</a></a></p>
