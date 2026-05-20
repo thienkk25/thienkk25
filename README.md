@@ -47,6 +47,23 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=thienkk25&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+## 📈 GitHub Analytics
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thienkk25&theme=radical&hide_border=true" />
