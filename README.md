@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 - 👋 Hi, I'm Thiện, a mobile application developer from Vietnam.  
-- I have experience developing Flutter applications with a focus on clean architecture, maintainability, and performance.  
+- I have experience developing Flutter, Swift(UIKit) applications with a focus on clean architecture, maintainability, and performance.  
 - I also work with backend development using Node.js (Express) to build RESTful APIs and support mobile applications.  
 - I enjoy working with modern technologies and continuously improving my skills to build better products.
-
+- I knows "vibe coding" :))
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
