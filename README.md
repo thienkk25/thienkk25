@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 - 👋 Hi, I'm Thiện, a mobile application developer from Vietnam.  
 - I have experience developing Flutter, Swift(UIKit) applications with a focus on clean architecture, maintainability, and performance.  
-- I also work with backend development using Node.js (Express) to build RESTful APIs and support mobile applications.  
+- I also work with backend development using Node.js (Express), Nextjs to build RESTful APIs and support mobile applications.  
 - I enjoy working with modern technologies and continuously improving my skills to build better products.
 
 ## 🚀 Tech Stack
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <a href="https://software-company-website.pages.dev/">
+  <a href="https://software-company-website.pages.dev">
     🌐 Visit My Website
   </a>
 </p>
