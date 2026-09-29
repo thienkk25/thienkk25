@@ -62,6 +62,11 @@
     🌐 Visit My Website
   </a>
 </p>
+<p align="center">
+  <a href="https://zyqelvona.vercel.app">
+    📈 Zyqelvona - Financial Markets Platform
+  </a>
+</p>
 
 <p align="center">
   Thanks for visiting ❤️
