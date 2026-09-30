@@ -12,9 +12,7 @@
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Apps;%E2%9A%A1+Crafting+Scalable+Backend+Systems;%F0%9F%8E%AF+Obsessed+with+Clean+Architecture;%F0%9F%9A%80+Always+Shipping+%26+Learning" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Apps;%E2%9A%A1+Crafting+Scalable+Backend+Systems;%F0%9F%8E%AF+Obsessed+with+Clean+Architecture;%F0%9F%9A%80+Always+Shipping+%26+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -140,17 +138,17 @@
 <br/>
 
 <a href="https://github.com/thienkk25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thienkk25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="Thiện's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thienkk25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="Thiện's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thienkk25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=thienkk25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
