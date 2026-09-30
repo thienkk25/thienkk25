@@ -19,5 +19,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: thienkk25
-          BRANCH_NAME: cards
           UTC_OFFSET: 7
+          AUTO_PUSH: false
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-summary-card-output
+          publish_branch: cards
