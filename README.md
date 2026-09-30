@@ -41,21 +41,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
-<div>
+<div align="center">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a8f9d-a138-427e-a127-beb691cf7f73.gif" width="300" alt="Coding GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f9d-a138-427e-a127-beb691cf7f73.gif" width="300" alt="Coding GIF" />
 
 ### 🧑‍💻 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👋 &nbsp;Xin chào! I'm **Thiện**, a developer from **Vietnam 🇻🇳**\
-&nbsp;&nbsp;&nbsp;📱 &nbsp;Building mobile apps with **Flutter** & **Swift (UIKit)**\
-&nbsp;&nbsp;&nbsp;⚙️ &nbsp;Developing backends with **Node.js**, **Express** & **Next.js**\
-&nbsp;&nbsp;&nbsp;🏗️ &nbsp;Passionate about **Clean Architecture** & **Scalability**\
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Always exploring & building better digital products\
-&nbsp;&nbsp;&nbsp;🎯 &nbsp;Currently crafting **Zyqelvona** — a financial markets platform\
-&nbsp;&nbsp;&nbsp;💡 &nbsp;Love turning complex problems into elegant solutions
-
-<br/><br/><br/>
+👋 Xin chào! I'm **Thiện**, a developer from **Vietnam 🇻🇳**\
+📱 Building mobile apps with **Flutter** & **Swift (UIKit)**\
+⚙️ Developing backends with **Node.js**, **Express** & **Next.js**\
+🏗️ Passionate about **Clean Architecture** & **Scalability**\
+🚀 Always exploring & building better digital products\
+🎯 Currently crafting **Zyqelvona** — a financial markets platform\
+💡 Love turning complex problems into elegant solutions
 
 </div>
 
