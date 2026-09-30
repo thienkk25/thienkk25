@@ -137,18 +137,28 @@
 
 <br/>
 
+<!-- Self-generated cards from GitHub Actions — never rate-limited -->
 <a href="https://github.com/thienkk25">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thienkk25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="Thiện's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thienkk25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</a>
+
+<br/>
+
+<a href="https://github.com/thienkk25">
+  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+</a>
+
+<br/>
+
+<a href="https://github.com/thienkk25">
+  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </a>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=thienkk25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thienkk25&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
