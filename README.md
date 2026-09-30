@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f9d-a138-427e-a127-beb691cf7f73.gif" width="300" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
 ### 🧑‍💻 &nbsp;About Me
 
@@ -208,7 +208,7 @@
 <br/><br/>
 
 <!-- ANIMATED COLLABORATION GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f12c901e6.gif" width="300" alt="Collaboration" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Collaboration" />
 
 </div>
 
