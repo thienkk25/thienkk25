@@ -1,20 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HEADER BANNER WITH ANIMATED GRADIENT -->
+<!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F3D56,100:2F2E41&height=220&section=header&text=Thiện%20Nguyễn&fontSize=56&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Mobile%20%26%20Web%20Engineer&descSize=18&descAlignY=55&descAlign=50" />
+# 👋 Hey, I'm [Thiện Nguyễn](https://github.com/thienkk25)
+
+**`Software Developer | Mobile & Web Engineer`**
 
 <!-- ANIMATED DEVELOPER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Animation" />
-
-<br/>
-
-<!-- TYPING SVG -->
-<a href="https://github.com/thienkk25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=Building+Beautiful+Mobile+Apps;Crafting+Scalable+Backend+Systems;Obsessed+with+Clean+Architecture;Always+Shipping+%26+Learning" alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
@@ -277,5 +272,5 @@
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F3D56,100:2F2E41&height=120&section=footer" />
+<!-- FOOTER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer" />
