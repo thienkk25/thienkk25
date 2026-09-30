@@ -137,23 +137,23 @@
 
 <br/>
 
-<!-- Self-generated cards from GitHub Actions — never rate-limited -->
+<!-- Stats cards committed to repo — always available -->
 <a href="https://github.com/thienkk25">
-  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./assets/cards/0-profile-details.svg" alt="Profile Details" />
 </a>
 
 <br/>
 
 <a href="https://github.com/thienkk25">
-  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img height="180em" src="./assets/cards/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img height="180em" src="./assets/cards/2-most-commit-language.svg" alt="Most Commit Language" />
 </a>
 
 <br/>
 
 <a href="https://github.com/thienkk25">
-  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img height="180em" src="https://raw.githubusercontent.com/thienkk25/thienkk25/output-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img height="180em" src="./assets/cards/3-stats.svg" alt="Stats" />
+  <img height="180em" src="./assets/cards/4-productive-time.svg" alt="Productive Time" />
 </a>
 
 <br/><br/>
