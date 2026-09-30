@@ -58,12 +58,12 @@
 </p>
 
 <p align="center">
-  <a href="https://software-company-website.pages.dev">
+  <a href="https://software-company-website.pages.dev" target="_blank">
     🌐 Visit My Website
   </a>
 </p>
 <p align="center">
-  <a href="https://zyqelvona.vercel.app">
+  <a href="https://zyqelvona.vercel.app" target="_blank">
     📈 Zyqelvona - Financial Markets Platform
   </a>
 </p>
