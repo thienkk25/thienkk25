@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7C4DFF&center=true&vCenter=true&width=540&lines=Software+Developer;Love+Solving+Problems;Clean+Thinking;Always+Evolving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7C4DFF&center=true&vCenter=true&width=540&lines=Software+Developer;Building+Better+Products;Solving+Problems+with+Code;Always+Learning+%26+Evolving" />
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" />
 </p>
 
 ## 👨‍💻 About Me
-- 👋 Hi, I'm Thiện, a mobile application developer from Vietnam.  
-- I have experience developing Flutter, Swift(UIKit) applications with a focus on clean architecture, maintainability, and performance.  
-- I also work with backend development using Node.js (Express), Nextjs to build RESTful APIs and support mobile applications.  
-- I enjoy working with modern technologies and continuously improving my skills to build better products.
+- 👋 I'm Thiện, a developer from Vietnam.
+- 📱 Building mobile applications with **Flutter** and **Swift (UIKit)**.
+- ⚙️ Developing backend services and RESTful APIs with **Node.js, Express, and Next.js**.
+- 🏗️ Focused on **clean architecture, maintainability, performance, and scalability**.
+- 🚀 Always exploring modern technologies and building better products.
 
 ## 🚀 Tech Stack
 <p align="center">
@@ -58,16 +58,14 @@
 </p>
 
 <p align="center">
-  <a href="https://software-company-website.pages.dev" target="_blank">
-    🌐 Visit My Website
-  </a>
-</p>
-<p align="center">
-  <a href="https://zyqelvona.vercel.app" target="_blank">
-    📈 Zyqelvona - Financial Markets Platform
-  </a>
+  <a href="https://software-company-website.pages.dev"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-18181B?style=for-the-badge" alt="Visit My Website"></a>
+  <a href="https://zyqelvona.vercel.app"><img src="https://img.shields.io/badge/📈%20Zyqelvona%20%7C%20Financial%20Markets-2563EB?style=for-the-badge" alt="Zyqelvona Financial Markets"></a>
 </p>
 
 <p align="center">
-  Thanks for visiting ❤️
+  <sub>Building software, apps & intelligent digital products.</sub>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by ❤️</sub>
 </p>
