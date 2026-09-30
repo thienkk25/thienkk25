@@ -12,7 +12,9 @@
 <br/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Apps;%E2%9A%A1+Crafting+Scalable+Backend+Systems;%F0%9F%8E%AF+Obsessed+with+Clean+Architecture;%F0%9F%9A%80+Always+Shipping+%26+Learning" alt="Typing SVG" />
+<a href="https://github.com/thienkk25">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=Building+Beautiful+Mobile+Apps;Crafting+Scalable+Backend+Systems;Obsessed+with+Clean+Architecture;Always+Shipping+%26+Learning" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
